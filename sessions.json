@@ -1,10 +1,12 @@
 {
-    "fqsclient": {
-        "session": "fqs_session_001",
-        "download": "https://raw.githubusercontent.com/elcsuckers/fqsupdater/main/releases/fqsclient.zip"
+    "BosProje": {
+        "session": "",
+        "download": "",
+        "gui": "off"
     },
-    "diceoratool": {
+    "DiceoraTool": {
         "session": "dice_session_001",
-        "download": "https://raw.githubusercontent.com/elcsuckers/fqsupdater/main/releases/diceoratool.zip"
+        "download": "https://raw.githubusercontent.com/elcsuckers/fqsupdater/main/releases/diceoratool.zip",
+        "gui": "on"
     }
 }

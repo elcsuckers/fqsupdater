@@ -1,8 +1,8 @@
 {
-    "BosProje": {
-        "session": "",
-        "download": "",
-        "gui": "off"
+    "FqsClient": {
+        "session": "fqsclientfarmbotu323232",
+        "download": "https://raw.githubusercontent.com/elcsuckers/fqsupdater/main/releases/diceoratool.zip",
+        "gui": "on"
     },
     "awakeillegal": {
         "session": "awakesessions9643834322384234",
